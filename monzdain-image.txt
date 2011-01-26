@@ -1,7 +1,7 @@
 title: L'image peut-elle tuer ?
 author:
-    - first: Dan
-      last: Simmons
+    - first: Marie José
+      last: Mondzain
 ---
 page: 43
 
