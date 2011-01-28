@@ -1,5 +1,4 @@
 title: Bulles
-date: 01/01/2011
 author:
     - first: Peter
       last: Sloterdjik
