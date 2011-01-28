@@ -1,4 +1,4 @@
-title: "L'homme et le sacré"
+title: L'homme et le sacré
 author:
     - first: Roger
       last: Caillois
