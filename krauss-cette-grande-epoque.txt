@@ -3,8 +3,6 @@ author:
     - first: Karl
       last: Krauss
 ---
-page:
-
 La nécessité peut faire de chaque homme un journaliste, mais elle ne peut faire de chaque femme une prostituée.
 ---
 chapter: La muraille de chine
