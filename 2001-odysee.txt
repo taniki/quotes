@@ -4,8 +4,6 @@ author:
       middle: C.
       last: Clarke
 ---
-page: ?
-
 Derrière chaque être vivant il y a trente fantômes, car tel est le rapport des morts aux vivants. Depuis l'aube des temps, environ cent milliards d'être humains ont vécu sur cette planète.
 
 Et ce nombre est très intéressant car, par une curieuse coïncidence, il existe environ cent milliards d'étoile dans notre univers local, la Voie Lactée. Ainsi, pour chaque homme qui vécut jamais, une étoile brille dans l'espace.
